@@ -8,7 +8,7 @@ Time spent: 13 hours spent in total
 
 Link to project: https://glitch.com/edit/#!/project1-henry-lin?path=style.css%3A1%3A0
 
-(It said add the link to the README but I don't see anywhere to add it)GIF Link: https://recordit.co/hVfyur1rDM
+(It said add the link to the README but I don't see anywhere to add it)GIF Link: http://g.recordit.co/hVfyur1rDM.gif
 
 ## Required Functionality
 
